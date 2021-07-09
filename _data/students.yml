@@ -1,0 +1,81 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Ngoc Nguyen
+  photo: rock.jpg
+  info: PhD Student
+  email: ngocntb0392@gmail.com
+  website: null
+  google_scholar_link: https://scholar.google.com/citations?hl=vi&user=zQPES6kAAAAJ
+  number_educ: 1
+  education1: Master of Science in Computer Science, University of Information Technology (UIT)
+
+- name: Yunqing Zhao
+  photo: ZHAO_YUNQING.jpg
+  info: PhD Student
+  email: yunqing_zhao@mymail.sutd.edu.sg
+  website: https://www.linkedin.com/in/yunqing-zhao/
+  google_scholar_link: https://scholar.google.com/citations?user=CCutiMUAAAAJ&hl=en
+  number_educ: 1
+  education1: null
+
+- name: Thilini Cooray
+  photo: rock.jpg
+  info: PhD Student
+  email: thilini_cooray@mymail.sutd.edu.sg
+  website: www.linkedin.com/in/thilinicooray
+  google_scholar_link: https://scholar.google.com/citations?user=ige6VBoAAAAJ&hl=en
+  number_educ: 1
+  education1: BSc in Computer Science from University of Colombo School of Computing. Sri Lanka
+
+- name: Christopher Teo
+  photo: rock.jpg
+  info: PhD Student
+  email: christopher_teo@mymail.sutd.edu.sg
+  website: https://www.linkedin.com/in/tthchristopher/
+  google_scholar_link: null
+  number_educ: 1
+  education1: B.E.Honours, EPD, Singapore University of Technology and Design
+
+- name: Bauyrzhan Ibragimov
+  photo: rock.jpg
+  info: PhD Student
+  email: bauyrzhan_ibragimov@mymail.sutd.edu.sg
+  website: null
+  google_scholar_link: https://scholar.google.com/citations?user=GMU2Rt8AAAAJ&hl=en&oi=ao
+  number_educ: 1
+  education1: null
+
+- name: Siyang Dai
+  photo: rock.jpg
+  info: PhD Student
+  email: siyang_dai@mymail.sutd.edu.sg
+  website: https://www.linkedin.com/in/dai-siyang/
+  google_scholar_link: null
+  number_educ: 1
+  education1: Master of Science in Computer Control and Automation from Nanyang Technological University
+
+- name: Pamela Wang
+  photo: Pamela_Wang.jpg
+  info: PhD Student
+  email: wangyeelin@gmail.com
+  website: null
+  google_scholar_link: null
+  number_educ: 1
+  education1: null
+
+- name: Siddharth Kumar Sah
+  photo: Siddharth_Kumar.jpg
+  info: Masters Student
+  email: siddharth_kumar@mymail.sutd.edu.sg
+  website: https://www.siddharthsah.com/
+  google_scholar_link: https://scholar.google.com/citations?user=iULDN-MAAAAJ&hl=en
+  number_educ: 1
+  education1: null

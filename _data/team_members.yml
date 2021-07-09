@@ -1,0 +1,44 @@
+- name: Milad Abdollahzadeh
+  photo: Milad Abdollahzadeh.jpg
+  info: Postdoc
+  email: milad.abdollahzadeh@gmail.com
+  website: https://miladabd.github.io/
+  google_scholar_link: https://scholar.google.com/citations?user=SYDsMNAAAAAJ&hl=en
+  number_educ: 1
+  education1: Ph.D. in Electrical Engineering from University of Tabriz, Tabriz, Iran
+
+- name: Keshigeyan Chandrasegaran
+  photo: Keshigeyan.jpg
+  info: Research Assistant
+  email: keshigeyan[AT]sutd(DOT)edu(DOT)sg
+  website: https://keshik6.github.io/
+  google_scholar_link: https://scholar.google.com/citations?user=vh2Ywj8AAAAJ&hl=en
+  number_educ: 1
+  education1: B.E.Honours, ISTD, Singapore University of Technology and Design
+
+- name: Tran Viet Hung
+  photo: TranVietHung.jpg
+  info: Research Assistant
+  email: hungz230103@gmail.com
+  website: null
+  google_scholar_link: https://scholar.google.com.sg/citations?user=52G_hjsAAAAJ&hl=vi#
+  number_educ: 1
+  education1: null
+
+- name: Kelly Kuo
+  photo: rock.jpg
+  info: Research Assistant
+  email: kellykkl@gmail.com
+  website: https://www.linkedin.com/in/kelly-kuo-684a2612a/
+  google_scholar_link: null
+  number_educ: 1
+  education1: Master's in Economics and Finance from Barcelona Graduate School of Economics
+
+- name: Anh-Dung Dinh
+  photo: Anh-DungDinh.jpg
+  info: Research Assistant
+  email: dinhanhdung1996@gmail.com
+  website: https://www.linkedin.com/in/dung-dinh-999b2213b/
+  google_scholar_link: https://scholar.google.com/citations?user=ZJbv3YoAAAAJ&hl=en&authuser=1
+  number_educ: 1
+  education1: null
