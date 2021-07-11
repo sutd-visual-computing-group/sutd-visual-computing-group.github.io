@@ -59,3 +59,13 @@ For a full list of publications go to [Google Scholar](https://scholar.google.co
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+
+## 2020
+
+{% for publi in site.data.publist_2020 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}

@@ -1,11 +1,11 @@
-# Allan Lab Website
+# Visual Computing Group @ SUTD
 
-This is the website of our academic research group at Leiden University.
+## Acknowledgements
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
-
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
+We use the template from https://github.com/mpa139/allanlab for this website and we gratefully acknowledge the respective authors for their contributions. 
 
 
-Copyright Allan Lab. Code released under the MIT License.
 
+## For new members
+
+Will be updated soon...

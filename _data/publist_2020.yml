@@ -1,0 +1,79 @@
+- title: Direct Quantization for Training Highly Accurate Low Bit-width Deep Neural Networks
+  image: TBG_SL.png
+  description:
+  authors: Tuan Hoang, Thanh-Toan Do, Tam V Nguyen, Ngai-Man Cheung
+  link:
+    url: https://arxiv.org/pdf/2012.13762
+    display: IJCAI-2020. International Joint Conference on Artificial Intelligence
+  highlight: 0
+  news2:
+
+- title: Unsupervised Deep Cross-modality Spectral Hashing
+  image: TBG_SL.png
+  description:
+  authors: Tuan Hoang, Thanh-Toan Do, Tam V Nguyen, Ngai-Man Cheung
+  link:
+    url: https://arxiv.org/pdf/2008.00223.pdf
+    display: IEEE Transactions on Image Processing
+  highlight: 0
+  news2:
+
+- title: Explanation-guided training for cross-domain few-shot classification
+  image: TBG_SL.png
+  description:
+  authors: Jiamei Sun, Sebastian Lapuschkin, Wojciech Samek, Yunqing Zhao, Ngai-Man Cheung, Alexander Binder
+  link:
+    url: https://arxiv.org/pdf/2007.08790.pdf
+    display: ICPR-2020. International Conference on Pattern Recognition
+  highlight: 0
+  news2:
+
+- title: InfoMax-GAN&#58; Improved Adversarial Image Generation via Information Maximization and Contrastive Learning
+  image: TBG_SL.png
+  description:
+  authors: Kwot Sin Lee, Ngoc-Trung Tran, Ngai-Man Cheung
+  link:
+    url: https://openaccess.thecvf.com/content/WACV2021/papers/Lee_InfoMax-GAN_Improved_Adversarial_Image_Generation_via_Information_Maximization_and_Contrastive_WACV_2021_paper.pdf
+    display: WACV-2021 (Oral). IEEE Winter Conference on Applications of Computer Vision
+  highlight: 0
+  news2:
+
+- title: TEAGS&#58; time-aware text embedding approach to generate subgraphs
+  image: TBG_SL.png
+  description:
+  authors: Saeid Hosseini, Saeed Najafipour, Ngai-Man Cheung, Hongzhi Yin, Mohammad Reza Kangavari, Xiaofang Zhou
+  link:
+    url: https://arxiv.org/pdf/1907.03191.pdf
+    display: Data Mining and Knowledge Discovery
+  highlight: 0
+  news2:
+
+- title: Simultaneous compression and quantization&#58; A joint approach for efficient unsupervised hashing
+  image: TBG_SL.png
+  description:
+  authors: Tuan Hoang, Thanh-Toan Do, Huu Le, Dang-Khoa Le-Tan, Ngai-Man Cheung
+  link:
+    url: https://arxiv.org/pdf/1802.06645
+    display: Computer Vision and Image Understanding
+  highlight: 0
+  news2:
+
+- title: Attentive Weights Generation for Few Shot Learning via Information Maximization
+  image: TBG_SL.png
+  description:
+  authors: Yiluan Guo, Ngai-Man Cheung
+  link:
+    url: http://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Attentive_Weights_Generation_for_Few_Shot_Learning_via_Information_Maximization_CVPR_2020_paper.pdf
+    display: CVPR-2020. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  highlight: 0
+  news2:
+
+- title: Attention-Based Context Aware Reasoning for Situation Recognition
+  image: TBG_SL.png
+  description:
+  authors: Thilini Cooray, Ngai-Man Cheung, Wei Lu
+  link:
+    url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Cooray_Attention-Based_Context_Aware_Reasoning_for_Situation_Recognition_CVPR_2020_paper.pdf
+    display: CVPR-2020. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  highlight: 0
+  news2:
