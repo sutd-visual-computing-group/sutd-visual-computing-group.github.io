@@ -11,7 +11,7 @@
               Our quantitative, task-level analysis is inspired by the recent transference idea from multi-task learning. Second, inspired by 
               hard parameter sharing in multi-task learning and a new interpretation of related work, we propose a new multimodal meta-learner 
               that outperforms existing work by considerable margins. While the major focus is on multimodal meta-learning, our work also attempts 
-              to shed light on task interaction in conventional meta-learning. The code for this project is available at https://miladabd. github. io/KML.
+              to shed light on task interaction in conventional meta-learning. The code for this project is available at https://miladabd.github.io/KML
   authors: Milad Abdollahzadeh, Touba Malekzadeh, Ngai-Man Cheung
   link:
     url: https://papers.nips.cc/paper/2021/file/7b3403f79b478699224bb449509694cf-Paper.pdf
