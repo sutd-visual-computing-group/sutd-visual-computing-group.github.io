@@ -1,5 +1,5 @@
 - title: Revisit Multimodal Meta-Learning through the Lens of Multi-Task Learning
-  image: TBG_SL.png
+  image: neurips21-thumbnail.jpg
   description: Multimodal meta-learning is a recent problem that extends conventional few-shot meta-learning by generalizing 
               its setup to diverse multimodal task distributions. This setup makes a step towards mimicking how humans make use 
               of a diverse set of prior skills to learn new skills. Previous work has achieved encouraging performance. 
