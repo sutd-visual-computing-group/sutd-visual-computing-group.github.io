@@ -1,3 +1,13 @@
+- title: Revisit Multimodal Meta-Learning through the Lens of Multi-Task Learning
+  image: TBG_SL.png
+  description:
+  authors: Milad Abdollahzadeh, Touba Malekzadeh, Ngai-Man Cheung
+  link:
+    url: https://papers.nips.cc/paper/2021/file/7b3403f79b478699224bb449509694cf-Paper.pdf
+    display:  Advances in Neural Information Processing Systems 34 Proceedings (NeurIPS 2021)
+  highlight: 0
+  news2:
+
 - title: Shell Theory&#58; A Statistical Model of Reality
   image: TBG_SL.png
   description:
