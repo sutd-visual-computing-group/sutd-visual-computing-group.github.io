@@ -52,3 +52,21 @@
   number_educ: 1
   education1: B.E.Honours, ESD, Singapore University of Technology and Design
  
+- name: Ho Sy Tuyen
+  photo: tuyen.jpg
+  info: Research Assistant
+  email: null
+  website: https://www.linkedin.com/in/ho-sy-tuyen-228760197/
+  google_scholar_link: https://scholar.google.com/citations?user=fvuhLpIAAAAJ&hl=vi
+  number_educ: 1
+  education1: BSc in Computer Science, University of Information Technology, Vietnam National University - HCMC
+  
+- name: Faeze Habibi
+  photo: faeze.jpg
+  info: Intern
+  email: null
+  website: https://habibifaeze66.wixsite.com/habibifaeze
+  google_scholar_link: null
+  number_educ: 1
+  education1: BSc of Engineering Science, University of Tehran 
+
