@@ -1,3 +1,11 @@
+- title: "A Closer Look at Few-shot Image Generation"
+  image: TiNHigh.png
+  authors: Yunqing Zhao, Henghui Ding, Houjing Huang, Ngai-Man Cheung
+  link:
+    url: https://arxiv.org/abs/2112.08830
+    display: CVPR-2022. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  highlight: 0
+
 - title: "Graph-wise Common Latent Factor Extraction for Unsupervised Graph Representation Learning"
   image: TiNHigh.png
   description: 
@@ -5,12 +13,4 @@
   link:
     url: https://arxiv.org/abs/2112.08830
     display: AAAI-2022 (Oral)
-  highlight: 0
-
-- title: "A Closer Look at Few-shot Image Generation"
-  image: TiNHigh.png
-  authors: Yunqing Zhao, Henghui Ding, Houjing Huang, Ngai-Man Cheung
-  link:
-    url: https://arxiv.org/abs/2112.08830
-    display: CVPR-2022. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
   highlight: 0
