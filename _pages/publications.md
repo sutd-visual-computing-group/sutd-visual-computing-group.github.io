@@ -51,6 +51,16 @@ For a full list of publications go to [Google Scholar](https://scholar.google.co
 <p> &nbsp; </p>
 
 
+## 2022
+
+{% for publi in site.data.publist_2022 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+
 ## 2021
 
 {% for publi in site.data.publist_2021 %}
