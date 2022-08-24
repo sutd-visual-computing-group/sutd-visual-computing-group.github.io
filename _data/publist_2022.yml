@@ -1,10 +1,21 @@
 - title: "Revisiting Label Smoothing and Knowledge Distillation Compatibility: What was Missing?"
-  image: TiNHigh.png
+  image: icml22.jpg
   authors: Keshigeyan Chandrasegaran, Ngoc-Trung Tran, Yunqing Zhao, Ngai-Man Cheung
+  description: This work investigates the compatibility between label smoothing (LS) and knowledge distillation (KD). Contemporary findings addressing this thesis statement take dichotomous standpoints: Muller et al. (2019) and Shen et al. (2021b). 
+                Critically, there is no effort to understand and resolve these contradictory findings, 
+                leaving the primal question -- to smooth or not to smooth a teacher network? -- unanswered. 
+                The main contributions of our work are the discovery, analysis and validation of systematic diffusion as the missing 
+                concept which is instrumental in understanding and resolving these contradictory findings. 
+                This systematic diffusion essentially curtails the benefits of distilling from an LS-trained teacher, 
+                thereby rendering KD at increased temperatures ineffective. Our discovery is comprehensively supported by 
+                large-scale experiments, analyses and case studies including image classification, neural machine translation and 
+                compact student distillation tasks spanning across multiple datasets and teacher-student architectures. Based on our 
+                analysis, we suggest practitioners to use an LS-trained teacher with a low-temperature transfer to achieve high 
+                performance students. Code and models are available at https://keshik6.github.io/revisiting-ls-kd-compatibility/
   link:
-    url: https://arxiv.org/abs/2206.14532
+    url: https://keshik6.github.io/revisiting-ls-kd-compatibility/
     display: International Conference on Machine Learning (ICML 2022)
-  highlight: 0
+  highlight: 1
   
 - title: "A Closer Look at Few-shot Image Generation"
   image: TiNHigh.png
