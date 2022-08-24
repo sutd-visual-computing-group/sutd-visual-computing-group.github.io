@@ -16,8 +16,6 @@ For a full list of publications go to [Google Scholar](https://scholar.google.co
 
 {% for publi in site.data.publist_2021 %}
 
-{% for publi in site.data.publist_2021 %}
-
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
 
@@ -44,7 +42,6 @@ For a full list of publications go to [Google Scholar](https://scholar.google.co
 {% endif %}
 
 {% endif %}
-{% endfor %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
