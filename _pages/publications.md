@@ -13,6 +13,9 @@ permalink: /publications
 For a full list of publications go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=vJQArFkAAAAJ)
 
 {% assign number_printed = 0 %}
+
+{% for publi in site.data.publist_2021 %}
+
 {% for publi in site.data.publist_2021 %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
