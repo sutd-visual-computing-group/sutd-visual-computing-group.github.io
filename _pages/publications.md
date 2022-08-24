@@ -14,7 +14,7 @@ For a full list of publications go to [Google Scholar](https://scholar.google.co
 
 {% assign number_printed = 0 %}
 
-{% for publi in site.data.publist_2021 %}
+{% for publi in site.data.publist_2021+site.data.publist_2022 %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
