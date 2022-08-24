@@ -45,6 +45,7 @@ For a full list of publications go to [Google Scholar](https://scholar.google.co
 
 {% endif %}
 {% endfor %}
+{% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
