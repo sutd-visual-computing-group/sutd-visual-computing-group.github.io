@@ -1,3 +1,20 @@
+- title: "Discovering Transferable Forensic Features for CNN-generated Images Detection"
+  image: eccv22.gif
+  authors: Keshigeyan Chandrasegaran, Ngoc-Trung Tran, Alexander Binder, Ngai-Man Cheung
+  description: Visual counterfeits are increasingly causing an existential conundrum in mainstream media with rapid evolution in neural 
+                image synthesis methods. Though detection of such counterfeits has been a taxing problem in the image forensics community, 
+                a recent class of forensic detectors — universal detectors — are able to surprisingly spot counterfeit images regardless of 
+                generator architectures, loss functions, training datasets, and resolutions. This intriguing property suggests the possible 
+                existence of transferable forensic features (T-FF) in universal detectors. In this work, we conduct the first analytical 
+                study to discover and understand T-FF in universal detectors. 
+                Our contributions are 2-fold&#58; 1) We propose a novel forensic feature relevance statistic (FF-RS) to quantify and discover 
+                T-FF in universal detectors and, 2) Our qualitative and quantitative investigations uncover an unexpected finding&#58; color is a critical 
+                T-FF in universal detectors. Code and models are available at this https://keshik6.github.io/transferable-forensic-features/
+  link:
+    url: https://keshik6.github.io/transferable-forensic-features/
+    display: ECCV-2022 Oral. European Conference on Computer Vision
+  highlight: 1
+  
 - title: "Revisiting Label Smoothing and Knowledge Distillation Compatibility: What was Missing?"
   image: icml22.jpg
   authors: Keshigeyan Chandrasegaran, Ngoc-Trung Tran, Yunqing Zhao, Ngai-Man Cheung
