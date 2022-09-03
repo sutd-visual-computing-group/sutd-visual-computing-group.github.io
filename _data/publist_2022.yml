@@ -1,5 +1,5 @@
 - title: "Discovering Transferable Forensic Features for CNN-generated Images Detection"
-  image: eccv22.gif
+  image: r50_patches.jpeg
   authors: Keshigeyan Chandrasegaran, Ngoc-Trung Tran, Alexander Binder, Ngai-Man Cheung
   description: Visual counterfeits are increasingly causing an existential conundrum in mainstream media with rapid evolution in neural 
                 image synthesis methods. Though detection of such counterfeits has been a taxing problem in the image forensics community, 
