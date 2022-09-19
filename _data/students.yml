@@ -26,14 +26,14 @@
   number_educ: 1
   education1: null
 
-- name: Thilini Cooray
-  photo: rock.jpg
-  info: PhD Student
-  email: thilini_cooray@mymail.sutd.edu.sg
-  website: www.linkedin.com/in/thilinicooray
-  google_scholar_link: https://scholar.google.com/citations?user=ige6VBoAAAAJ&hl=en
-  number_educ: 1
-  education1: BSc in Computer Science from University of Colombo School of Computing. Sri Lanka
+# - name: Thilini Cooray
+#   photo: rock.jpg
+#   info: PhD Student
+#   email: thilini_cooray@mymail.sutd.edu.sg
+#   website: www.linkedin.com/in/thilinicooray
+#   google_scholar_link: https://scholar.google.com/citations?user=ige6VBoAAAAJ&hl=en
+#   number_educ: 1
+#   education1: BSc in Computer Science from University of Colombo School of Computing. Sri Lanka
 
 - name: Christopher Teo
   photo: Christopher.jpg
