@@ -24,6 +24,15 @@
   google_scholar_link: https://scholar.google.com.sg/citations?user=52G_hjsAAAAJ&hl=vi#
   number_educ: 1
   education1: null
+  
+- name: Ye Wei
+  photo: wei_yi.jpg
+  info: Postdoc
+  email: null
+  website: null
+  google_scholar_link: null
+  number_educ: 1
+  education1: Ph.D in Control Science and Engineering from Harbin Engineering University
 
 # - name: Kelly Kuo
 #   photo: rock.jpg
@@ -60,6 +69,15 @@
   google_scholar_link: https://scholar.google.com/citations?user=fvuhLpIAAAAJ&hl=vi
   number_educ: 1
   education1: BSc in Computer Science, University of Information Technology, Vietnam National University - HCMC
+  
+- name: Ho Sy Tuyen
+  photo: kim_cuc.jpg
+  info: Research Assistant
+  email: null
+  website: null
+  google_scholar_link: null
+  number_educ: 1
+  education1: Bachelor in Computer and Information Science, Vietnam National University, Hanoi
   
 # - name: Faeze Habibi
 #   photo: faeze.jpg
