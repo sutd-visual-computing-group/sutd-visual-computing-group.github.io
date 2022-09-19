@@ -25,32 +25,32 @@
   number_educ: 1
   education1: null
 
-- name: Kelly Kuo
-  photo: rock.jpg
-  info: Research Assistant
-  email: kellykkl@gmail.com
-  website: https://www.linkedin.com/in/kelly-kuo-684a2612a/
-  google_scholar_link: null
-  number_educ: 1
-  education1: Master's in Economics and Finance from Barcelona Graduate School of Economics
+# - name: Kelly Kuo
+#   photo: rock.jpg
+#   info: Research Assistant
+#   email: kellykkl@gmail.com
+#   website: https://www.linkedin.com/in/kelly-kuo-684a2612a/
+#   google_scholar_link: null
+#   number_educ: 1
+#   education1: Master's in Economics and Finance from Barcelona Graduate School of Economics
 
-- name: Anh-Dung Dinh
-  photo: Anh-DungDinh.jpg
-  info: Research Assistant
-  email: dinhanhdung1996@gmail.com
-  website: https://www.linkedin.com/in/dung-dinh-999b2213b/
-  google_scholar_link: https://scholar.google.com/citations?user=ZJbv3YoAAAAJ&hl=en&authuser=1
-  number_educ: 1
-  education1: null
+# - name: Anh-Dung Dinh
+#   photo: Anh-DungDinh.jpg
+#   info: Research Assistant
+#   email: dinhanhdung1996@gmail.com
+#   website: https://www.linkedin.com/in/dung-dinh-999b2213b/
+#   google_scholar_link: https://scholar.google.com/citations?user=ZJbv3YoAAAAJ&hl=en&authuser=1
+#   number_educ: 1
+#   education1: null
 
-- name: Lim Jun Hao
-  photo: rock.jpg
-  info: Research Assistant
-  email: null
-  website: null
-  google_scholar_link: null
-  number_educ: 1
-  education1: B.E.Honours, ESD, Singapore University of Technology and Design
+# - name: Lim Jun Hao
+#   photo: rock.jpg
+#   info: Research Assistant
+#   email: null
+#   website: null
+#   google_scholar_link: null
+#   number_educ: 1
+#   education1: B.E.Honours, ESD, Singapore University of Technology and Design
  
 - name: Ho Sy Tuyen
   photo: tuyen.jpg
@@ -61,12 +61,12 @@
   number_educ: 1
   education1: BSc in Computer Science, University of Information Technology, Vietnam National University - HCMC
   
-- name: Faeze Habibi
-  photo: faeze.jpg
-  info: Intern
-  email: null
-  website: https://habibifaeze66.wixsite.com/habibifaeze
-  google_scholar_link: null
-  number_educ: 1
-  education1: BSc of Engineering Science, University of Tehran 
+# - name: Faeze Habibi
+#   photo: faeze.jpg
+#   info: Intern
+#   email: null
+#   website: https://habibifaeze66.wixsite.com/habibifaeze
+#   google_scholar_link: null
+#   number_educ: 1
+#   education1: BSc of Engineering Science, University of Tehran 
 
