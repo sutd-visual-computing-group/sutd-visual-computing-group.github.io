@@ -1,0 +1,23 @@
+- title: "Exploring Incompatible Knowledge Transfer in Few-shot Image Generation"
+  image: TiNHigh.png
+  authors: Yunqing Zhao, Chao Du, Milad Abdollahzadeh, Tianyu Pang, Min Lin, Shuicheng YAN, Ngai-Man Cheung
+  link:
+    url: https://arxiv.org/abs/2304.07574
+    display: CVPR-2023. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  highlight: 0
+  
+- title: "Re-thinking Model Inversion Attacks Against Deep Neural Networks"
+  image: TiNHigh.png
+  authors: Ngoc-Bao Nguyen(*), Keshigeyan Chandrasegaran(*), Milad Abdollahzadeh, Ngai-Man Cheung. (*) denotes Equal Contribution
+  link:
+    url: https://arxiv.org/abs/2304.01669
+    display: CVPR-2023. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  highlight: 0
+  
+- title: "Fair Generative Models via Transfer Learning"
+  image: TiNHigh.png
+  authors: Christopher TH Teo, M Abdollahzadeh, Ngai-Man Cheung.
+  link:
+    url: https://arxiv.org/abs/2212.00926
+    display: AAAI-2023.
+  highlight: 0
