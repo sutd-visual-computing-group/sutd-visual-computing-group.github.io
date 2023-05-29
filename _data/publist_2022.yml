@@ -1,9 +1,9 @@
 - title: "Few-shot Image Generation via Adaptation-Aware Kernel Modulation"
   image: TiNHigh.png
-  authors: Yunqing Zhao(&#42;), Keshigeyan Chandrasegaran(&#42;), Milad Abdollahzadeh(&#42;), Ngai-Man Cheung. (U+0002A) denotes Equal Contribution
+  authors: Yunqing Zhao(&#42;), Keshigeyan Chandrasegaran(&#42;), Milad Abdollahzadeh(&#42;), Ngai-Man Cheung. (&#42;) denotes Equal Contribution
   link:
     url: https://arxiv.org/abs/2210.16559
-    display: NeurIPS-2022. Advances in Neural Information Processing Systems 35 (NeurIPS). 
+    display: NeurIPS-2022. Advances in Neural Information Processing Systems 36 (NeurIPS). 
   highlight: 0
   
 - title: "Discovering Transferable Forensic Features for CNN-generated Images Detection"
