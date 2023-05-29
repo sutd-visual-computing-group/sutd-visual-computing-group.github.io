@@ -1,3 +1,6 @@
+- date: 1 March 2023
+  headline: 2 papers accepted to CVPR 2023 & 1 paper accepted to AAAI 2023.
+  
 - date: 20 Sep 2022
   headline: Our work Few-shot Image Generation via Adaptation-aware Kernel Modulation accepted to NeurIPS 2022
   
@@ -16,8 +19,8 @@
 - date: 1 Oct 2021
   headline: Our work <a href='https://papers.nips.cc/paper/2021/hash/7b3403f79b478699224bb449509694cf-Abstract.html'>Revisit Multimodal Meta-Learning through the Lens of Multi-Task Learning</a> accepted to NeurIPS 2021
   
-- date: 25 June 2021
-  headline: Shell Theory &#58; A Statistical Model of Reality on IEEE Transactions on Pattern Analysis and Machine Intelligence 2021.
+# - date: 25 June 2021
+#   headline: Shell Theory &#58; A Statistical Model of Reality on IEEE Transactions on Pattern Analysis and Machine Intelligence 2021.
 
 # - date: 10 June 2021
 #   headline: "We will present our work on Fourier Spectrum Discrepancies for CNN-generated images detection at CVPR 2021 (Oral), Poster Session 6 (ID: #7067)"
